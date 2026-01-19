@@ -91,7 +91,7 @@ sm_api/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/harish1120/sm-api.git
    cd sm_api
    ```
 
