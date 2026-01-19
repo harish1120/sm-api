@@ -290,11 +290,6 @@ This project includes a GitHub Actions workflow for automated testing and deploy
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 🤝 Contributing
 
